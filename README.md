@@ -25,3 +25,4 @@ Win10系统日志事件分析
 
   &emsp;结点采用线性表的方式顺序存储，关联规则作为弧，链接到结点下，构成邻接表。
 
+  &emsp;EventLog.txt保存了原始事件集，EventGraph.txt保存了关联图信息，EventLog.h和main.c是项目文件
